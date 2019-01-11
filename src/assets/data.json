@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "description": "Website design",
+      "quantity": 1,
+      "price": 300,
+      "active": true
+    },
+    {
+      "description": "PHP 7 backend",
+      "quantity": 1,
+      "price": 75,
+      "active": false
+    },
+    {
+      "description": "Vue 2.0 frontend",
+      "quantity": 1,
+      "price": 10,
+      "active": false
+    }
+  ]
+}

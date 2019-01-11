@@ -1,0 +1,60 @@
+{
+  "technologies": [
+    {
+      "name": "Java",
+      "part": "20.67"
+    },
+    {
+      "name": "JavaScript",
+      "part": "16.54"
+    },
+    {
+      "name": "C#",
+      "part": "14.11"
+    },
+    {
+      "name": "PHP",
+      "part": "13.05"
+    },
+    {
+      "name": "Python",
+      "part": "9.76"
+    },
+    {
+      "name": "C++",
+      "part": "4.96"
+    },
+    {
+      "name": "Swift",
+      "part": "3.4"
+    },
+    {
+      "name": "Ruby",
+      "part": "2.97"
+    },
+    {
+      "name": "Go",
+      "part": "2"
+    },
+    {
+      "name": "TypeScript",
+      "part": "2"
+    },
+    {
+      "name": "Scala",
+      "part": "1.55"
+    },
+    {
+      "name": "C",
+      "part": "1.4"
+    },
+    {
+      "name": "1C",
+      "part": "1.12"
+    },
+    {
+      "name": "Objective-C",
+      "part": "1"
+    }
+  ]
+}
